@@ -1,0 +1,3 @@
+/home/grafika/CLionProjects/grafika/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/grafika/CLionProjects/grafika/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/grafika/CLionProjects/grafika/cmake-build-debug/CMakeFiles/grafika.dir
