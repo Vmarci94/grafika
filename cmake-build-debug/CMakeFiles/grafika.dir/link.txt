@@ -1,1 +1,0 @@
-/usr/bin/c++   -Wall -pedantic -pedantic-errors -g   CMakeFiles/grafika.dir/main.cpp.o  -o grafika -lGL -lGLEW -lGLU -lglut 
